@@ -2,6 +2,8 @@
 
 This project is a **Machine Learning-based fraud detection system** designed to identify potentially fraudulent transactions. It includes:
 
+The Fraud Detection App is a machine learning-powered web application built using Streamlit that identifies potentially fraudulent financial transactions in real time. By analyzing key transaction features like amount, balance before and after transactions, and transaction type, the app uses a trained Random Forest Classifier to accurately predict whether a transaction is fraudulent or legitimate.
+
 🔗 **Try the app here**:  
 👉 [https://fraud-detection-pwjnecpyiz8uonsxcvxqdb.streamlit.app/](https://fraud-detection-pwjnecpyiz8uonsxcvxqdb.streamlit.app/)
 
